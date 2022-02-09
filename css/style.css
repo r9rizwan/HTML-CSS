@@ -1,0 +1,114 @@
+h1 {
+
+    color: aqua;
+    font-size:20px; 
+}
+
+h2 {
+
+    color: blue;
+    font-size: 15px;
+}
+
+p{
+
+    font-size: 22px;
+}
+
+#h2_style{
+
+    color: dodgerblue;
+    font-size: 25px;
+
+}
+
+
+#h3_style{
+
+    color: bisque;
+    font-size: 10px;
+}
+
+.class1{
+
+    color: dodgerblue;
+    font-size: 25px;
+
+}
+
+.class2{
+
+    color: dodgerblue;
+    font-size: 50px;
+}
+
+#table{
+
+    color: red;
+}
+
+
+#div_base{
+
+    display: inline-flex;
+    padding-left: 150px;
+}
+
+
+#div1{
+
+    background-color: whitesmoke;
+    height: 300px;
+    width: 400px;
+   
+}
+#div1_1{
+    padding: in 
+    border-block-end-color: blue;
+    height: 20px;
+    width: 50px;
+    
+
+}
+
+#div2{
+
+    background-color: whitesmoke;
+    height: 300px;
+    width: 400px;
+    
+}
+
+#div3{
+
+    background-color: whitesmoke;
+    height: 300px;
+    width: 400px;
+    
+}
+
+#loading{
+
+    height: 20px;
+    width: 10px;
+    animation: linear 10s myanimation;
+    background-color: blue;
+}
+
+@keyframes myanimation{
+
+    from{
+        height: 20px;
+        width: 10px;
+        background-color: blue;
+    } 
+
+    to{
+        height: 20px;
+        width: 1200px;
+        background-color: red;
+    }
+    
+    
+
+}

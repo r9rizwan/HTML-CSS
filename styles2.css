@@ -1,0 +1,48 @@
+#h2css{
+
+    font-size: 22px;
+    color: blue;
+    background: red;
+}
+
+
+#parentdiv{
+    
+    display: inline-flex;
+}
+
+#div1css{
+
+    background: grey;
+    font-size: 15px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    
+    margin: 70px;
+
+}
+
+#div2css{
+
+    background: grey;
+    font-size: 15px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    
+    margin: 70px;
+
+}
+
+#div3css{
+
+    background: grey;
+    font-size: 15px;
+    color: aliceblue;
+    width: 200px;
+    height: 200px;
+    margin: 70px;
+    
+
+}
